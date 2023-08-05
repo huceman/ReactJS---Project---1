@@ -1,0 +1,12 @@
+.con {
+  width: 70%;
+  margin: auto;
+  background-color: #3b4242;
+  margin-top: 100px;
+}
+.con P {
+  padding: 40px 0px 40px 0px;
+  text-align: center;
+  color: white;
+  font-size: 13px;
+}
