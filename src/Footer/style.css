@@ -10,3 +10,11 @@
   color: white;
   font-size: 13px;
 }
+@media (max-width: 415px) {
+  .con {
+    width: 100%;
+  }
+  .con P {
+    padding: 20px 0px 20px 0px;
+  }
+}
